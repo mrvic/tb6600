@@ -2,10 +2,10 @@
 TB6600 with stepper motor
 
 
-Start arduino
-connect with usb
-start console
-type:
+-  Start arduino
+-  connect with usb
+-  start console
+-  type:
 xon
 cdon
 s60
