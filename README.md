@@ -23,12 +23,12 @@ it will:
 -  move to preset step position
 -  stop 6600 driver
 
-For faster motor set to 1/4 microstepping: 
+For faster motor set to  microstepping (4 miscrosteps, 800 pulse/rev): 
 -  SW1 ON
 -  SW2 OFF
 -  SW3 OFF
 
-For precize set 32 microstepping
+For precize set 32 microstepping (32 miscrosteps, 6400 pulse/rev): 
 -  SW1 OFF
 -  SW2 OFF
 -  SW3 OFF
