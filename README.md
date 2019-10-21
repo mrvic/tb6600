@@ -6,8 +6,8 @@ TB6600 with stepper motor
 -  connect with usb
 -  start console
 -  type:
-  *  xon
-  *  cdon
+    *  xon
+          *  cdon
 s60
 x3000
 mx
