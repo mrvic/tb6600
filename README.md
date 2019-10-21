@@ -8,7 +8,7 @@ TB6600 with stepper motor
 -  type:
     *  xon
     *  cdon
-    *  s60
+    *  s120
     *  x3000
     *  mx
     *  xoff
